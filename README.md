@@ -1,0 +1,2 @@
+# sheasy
+My first package
